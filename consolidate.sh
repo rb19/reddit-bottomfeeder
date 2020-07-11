@@ -7,6 +7,7 @@ downloads_path="/path/to/downloads"
 
 python3 $script_path
 
+cd $downloads_path
 # Having LOG_FILES breaks the push/pop stack so this is deleted.
 rm -rf LOG_FILES
 dirlvl=0;
