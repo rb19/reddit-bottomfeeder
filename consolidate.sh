@@ -19,6 +19,7 @@ do
     then 
         pushd $d
         ((dirlvl++))
+	# Add or remove filetypes in the bracket as needed
         rsync -arPv ./*.{jpg,png} $target_path/.
         echo $dirlvl
     else

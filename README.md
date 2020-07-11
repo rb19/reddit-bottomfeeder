@@ -4,6 +4,7 @@ aliparlakci's tool downloads items into subdirectories by subreddit, but this ex
 
 ## How to Use
 Run `git submodule --init` to download the reddit bulk downloader tool.
+Add or remove file types from the loop as needed.
 
 In consolidate.sh, add your target and download paths.
 Run `chmod +x consolidate.sh`, then run the script. Follow the downloader script prompts.
