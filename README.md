@@ -1,5 +1,5 @@
 # reddit-bottomfeeder
-This is a simple bash script that complements aliparlakci's [bulk-downloader-for reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit).
+This is a simple bash script that complements aliparlakci's [bulk-downloader-for reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit). Follow aliparlacki's README to setup your python environment before proceeding.
 
 Run `git submodule --init` to download the reddit bulk downloader tool.
 
